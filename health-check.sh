@@ -1,5 +1,5 @@
 #!/bin/bash
-##---------- Author : Sadashiva Murthy M ----------------------------------------------------##
+##---------- Author : Ambati Lokesh Reddy ----------------------------------------------------##
 ##---------- Blog site : https://www.simplylinuxfaq.com -------------------------------------##
 ##---------- Github page : https://github.com/SimplyLinuxFAQ/health-check-script ------------##
 ##---------- Purpose : To quickly check and report health status in a linux system.----------##
